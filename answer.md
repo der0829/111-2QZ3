@@ -18,7 +18,7 @@
 
     答案：
 
-<table style="border: 1px solid #fff;">
+<table>
 <tr>
 <td>使用者案例名稱</td>
 <td>公告案例</td>
